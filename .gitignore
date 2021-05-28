@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+purot/Library/PackageCache/com.unity.timeline@1.4.6/
+purot/Temp/
+purot/Logs/
+purot/Library/
+purot/obj/Debug/
